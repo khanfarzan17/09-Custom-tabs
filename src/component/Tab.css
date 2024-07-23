@@ -1,0 +1,18 @@
+.content {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  background-color: yellow;
+  color: blueviolet;
+}
+.label{
+  display: inline-flex;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 15px;
+  cursor: pointer;
+  border: none;
+  color: #fff;
+  background: #4e016a;
+}
